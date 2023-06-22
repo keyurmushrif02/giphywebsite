@@ -43,6 +43,7 @@
   },
   "devDependencies": {
     "esm": "^3.2.25",
+    "gh-pages": "^5.0.0",
     "typescript": "^5.1.3"
   }
 }
