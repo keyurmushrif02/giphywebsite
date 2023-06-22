@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sayalide/gifwebsite/static/css/main.46374f25.css",
+    "main.js": "/sayalide/gifwebsite/static/js/main.019d4b91.js",
+    "index.html": "/sayalide/gifwebsite/index.html",
+    "main.46374f25.css.map": "/sayalide/gifwebsite/static/css/main.46374f25.css.map",
+    "main.019d4b91.js.map": "/sayalide/gifwebsite/static/js/main.019d4b91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46374f25.css",
+    "static/js/main.019d4b91.js"
+  ]
+}
